@@ -14,7 +14,7 @@ What we do:
 
 - Data Management - collecting, keeping, and using data securely, efficiently, cost-effectively, and making it available to the right people at the right time. 
 
-- Data Acadamy - we train people to do what we do.
+- Data Acadamy - training people to do what we do.
 
 
 
