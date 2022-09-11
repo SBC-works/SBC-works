@@ -14,7 +14,12 @@ What we do:
 
 - Data Management - collecting, keeping, and using data securely, efficiently, cost-effectively, and making it available to the right people at the right time. 
 
-- Data Acadamy - training people to do what we do.
+- Data Acadamy - a platform where people learn and acquire knowledge, skills, and experience around Data Analytics.
+
+- We also provide an inventory system where we help businesses, create inventory systems for their data, and also help in their financial and account auditing.
+
+
+
 
 
 
